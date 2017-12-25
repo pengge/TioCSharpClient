@@ -1,0 +1,6 @@
+F:\1weixinapp\langtutu\备份工具\TioCSharpClient\bin\Debug\TioCSharpClient.dll
+F:\1weixinapp\langtutu\备份工具\TioCSharpClient\bin\Debug\TioCSharpClient.pdb
+F:\1weixinapp\langtutu\备份工具\TioCSharpClient\obj\Debug\TioCSharpClient.csproj.CoreCompileInputs.cache
+F:\1weixinapp\langtutu\备份工具\TioCSharpClient\obj\Debug\TioCSharpClient.dll
+F:\1weixinapp\langtutu\备份工具\TioCSharpClient\obj\Debug\TioCSharpClient.pdb
+F:\1weixinapp\langtutu\备份工具\TioCSharpClient\obj\Debug\TioCSharpClient.csprojResolveAssemblyReference.cache
